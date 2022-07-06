@@ -129,3 +129,20 @@ p{
 .half-side img{
     border-radius: 10px;
 }
+.lower-sect{
+    margin-top: 10%;
+}
+.email-part{
+    display: flex;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+}
+footer h1{
+    font-family: 'Lobster', cursive;
+    
+    color: tomato;
+}
