@@ -1,6 +1,7 @@
 body{
     font-family: 'Noto Sans', sans-serif;
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 .flexible-container{
     display: flex;
@@ -152,8 +153,7 @@ p{
 }
 .subscribe{
     margin-left: 250px;
-    margin-top: 14%;
-    
+    margin-top: 13.5%;
 }
 .subs-btn{
     margin-left: -15px;
