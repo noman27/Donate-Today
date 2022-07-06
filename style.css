@@ -114,4 +114,18 @@ p{
 }
 #paste{
     background-color:peachpuff
-}   
+} 
+.regular{
+    font-size: 40px;
+}
+.extra-sect{
+    margin-top: 8%;
+    display: flex;
+}  
+.half-side{
+    width: 50%;
+    margin-left:10%;
+}
+.half-side img{
+    border-radius: 10px;
+}
