@@ -63,3 +63,17 @@ p{
     text-align: center;
     margin: 10px 600px;
 }
+.box{
+    padding: 10px 20px 10px 20px;
+    background-color: rgba(128, 128, 128, 0.151);
+    margin-left: 20px;
+    border-radius: 10px;
+    font-weight: 700;
+}
+#special{
+    border: 2px solid red;
+    background-color: rgba(255, 0, 0, 0.329);
+}
+#special p{
+    color: red;
+}
