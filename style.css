@@ -7,27 +7,32 @@ body{
 }
 .top-banner{
     background-image: url(images/donation9.jpg);
-
     width: 100% ;
     background-size: 100%;
     margin: 0;
     background-repeat: no-repeat;
 }
+.banner-desc{
+    width: 50%;
+    margin-left: 30%;
+    margin-top: 10%;
+    margin-bottom: 8%;
+}
 .banner-desc h1{
-    padding-top: 230px;
-    padding-bottom: 0px;
-    font-size: 100px;
+    font-size: 80px;
+    font-weight:bolder;
     color:whitesmoke;
     text-align: center;
 }
 .banner-desc p{
     color:rgb(255, 255, 255);
     text-align: center;
-    font-size: 30px;
+    font-size: 22px;
+    margin-bottom: 10%;
 }
 .donate-btn{
     font-size: 20px;
-    display: block;
+   
     text-align: center;
     background-color: tomato;
     padding: 20px 40px;
@@ -35,6 +40,6 @@ body{
     font-weight: 700;
     text-decoration: none;
     border-radius: 10px;
-    margin-bottom: 50px;
+    margin-left:35%;
    
 }
