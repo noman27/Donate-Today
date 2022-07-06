@@ -77,3 +77,41 @@ p{
 #special p{
     color: red;
 }
+.input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 5px;
+    box-sizing: border-box;
+    border-color: orange;
+    text-align: center;
+}
+.donate-click{
+    margin-left: 15%;
+    text-align: center;
+    margin-top: 4%;
+    display: flex;
+}
+.donate-plan{
+    margin-top: 5%;
+}
+.big-box h1{
+    font-size: 30px;
+}
+.big-box{
+    padding:20px 10px;
+    margin: 10px 10px;
+    border-radius: 10px;
+    text-align: left;
+}
+#under-sidebox{
+    margin: 10px 400px 10px;
+}
+#pink{
+    background-color: rgba(255, 20, 145, 0.164);
+}
+#ocean{
+    background-color: rgba(0, 255, 255, 0.267);
+}
+#paste{
+    background-color:peachpuff
+}   
