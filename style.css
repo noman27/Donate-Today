@@ -58,3 +58,8 @@ p{
 .lower-desc{
     text-align: center;
 }
+.side-boxes{
+    display: flex;
+    text-align: center;
+    margin: 10px 600px;
+}
